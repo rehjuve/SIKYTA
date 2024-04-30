@@ -1,0 +1,14 @@
+{
+    "name": "sikyta",
+    "description": "sistem pendataan nasabah cabang kuta",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
